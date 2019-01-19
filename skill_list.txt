@@ -1,0 +1,47 @@
+* - mech skill
+** - useful in the future
+
+**acrobatics
+acting
+**administration
+**appraisal
+*artillery
+**career???
+**climbing
+communications: conventional
+computers
+cryptography
+demolitions
+**disguise
+**driving
+**escape artist
+**forgery
+*gunnery
+interrogation
+investigation
+**leadership
+martial arts
+medtech
+melee weapons
+navigation
+negotiation
+perception
+*piloting
+protocol: clans
+**protocol (various)
+running
+**science
+security systems: electronic
+**security systems: mechanical
+*sensor operations
+small arms
+stealth
+**strategy
+support weapons
+**survival
+**swimming
+tactics: land
+**tactics: infantry
+**tactics: space
+technician (various, pretty much any of them)
+**zero-g operations
